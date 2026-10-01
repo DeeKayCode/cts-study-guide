@@ -1,0 +1,11 @@
+# Exclude all Python scripts (as requested: repository contains pre-built question assets)
+*.py
+*.pyc
+*.pyo
+__pycache__/
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.log
+.system_generated/
