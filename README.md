@@ -1,21 +1,29 @@
 # AVIXA CTS Exam Study Guide & 1,000-Question Exam Simulator
 
-A lightweight, locally run practice exam simulator and comprehensive study guide tailored specifically for the **AVIXA Certified Technology Specialist (CTS)** credential.
+> 🌐 **Live Web Application:** Take practice exams instantly in your browser at:  
+> **👉 [https://deekaycode.github.io/cts-study-guide/](https://deekaycode.github.io/cts-study-guide/)**  
+> *(You can also access the live site directly from the **Deployments** / **github-pages** section on the right sidebar of this repository — **no git pull, clone, or installation needed!**)*
+
+A lightweight, responsive practice exam simulator and comprehensive study guide tailored specifically for the **AVIXA Certified Technology Specialist (CTS)** credential.
 
 Contains **1,000 scenario-based questions** strictly modeled after the real CTS exam difficulty, testing project management processes, trade demarcation, contracts, CSI MasterFormat, DISCAS, audio formulas, video standards, and systematic troubleshooting.
 
 ---
 
-## 🚀 Quick Start (Zero Setup Needed)
+## 🚀 How to Access (Online or Offline)
 
-No Python, Node.js, or complex web server installation is required. The entire study guide runs directly in your browser with zero dependencies.
+### 🌐 Option 1: Direct Online Access (Instant — No Git Pull or Download Needed)
+Open the deployed web application directly in any browser on desktop, tablet, or mobile:  
+👉 **[https://deekaycode.github.io/cts-study-guide/](https://deekaycode.github.io/cts-study-guide/)**  
+*(Also accessible from the **Deployments** panel on the right sidebar of the GitHub repo page).*
 
-### Option 1: 1-Click Windows Launcher
-Double-click **`run_study_guide.bat`**. It opens the exam simulator immediately in your default browser.
+### 💻 Option 2: 1-Click Windows Offline Launcher
+If you prefer running offline locally, download or clone the repository and double-click:  
+**`run_study_guide.bat`**  
+It launches the exam simulator immediately in your default browser with zero setup.
 
-### Option 2: Any Web Browser (Windows, macOS, Linux)
-Simply double-click or open **[`index.html`](index.html)** in any web browser (Chrome, Firefox, Safari, Edge, Brave). 
-
+### 📱 Option 3: Local Browser Launch (macOS, Linux, Chromebook, Windows)
+Simply double-click or open **[`index.html`](index.html)** in any web browser (Chrome, Firefox, Safari, Edge, Brave).  
 The full 1,000-question database is bundled in `questions_data.js`, allowing 100% offline functionality with zero CORS restrictions.
 
 ---
