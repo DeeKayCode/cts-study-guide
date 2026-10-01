@@ -88,3 +88,12 @@ Speed up practice test taking with keyboard shortcuts:
 * **Domain B (Implementing AV Solutions)**: Cable pathways, NEC codes (Article 725 Class 2, Article 800, Article 640), plenum CMP vs riser CMR vs CM, balanced audio, differential CMRR, XLR pinouts, phantom power (+48V), gain staging, automixers (Dugan vs gating, NOM), AEC reference routing, compressors/limiters, 70V/100V distributed audio, EDID & HDCP handshakes, HDMI 2.0/2.1, DisplayPort, HDBaseT 5Play, fiber optics (Single-mode vs Multi-mode OM3/OM4), IP networking (IPv4, subnets, VLANs, IGMP Snooping & Querier for multicast AVoIP), Dante/AES67 (PTP IEEE 1588, QoS DSCP), PoE (802.3af/at/bt), RS-232/422/485, and equipment rack layout/cooling/grounding.
 * **Domain C (Supporting AV Operations)**: End-user training methodologies (Train-the-Trainer, QRGs, adult learning), meeting operations, Unified Communications (Teams Rooms, Zoom Rooms, BYOD USB-C), microphone handling and proximity effect, preventive maintenance schedules (filter cleaning, UPS battery cycles, laser phosphor lifespan), config backups, SLAs (MTTR, MTBF, response vs resolution time), and remote monitoring (SNMPv3 traps, cloud IoT).
 * **Domain D (Servicing AV Solutions)**: AVIXA systematic 6-step troubleshooting methodology, half-split technique, trade demarcation, 60 Hz AC hum vs 120 Hz buzz, ground loop isolation, pin 1 problem (AES48), feedback elimination, digital cliff effect, digital sparkles, EDID emulation, HDCP key limit exhaustion, cable testing (TDR, wiremap, certification, fiber OTDR), multimeter diagnostics (AC outlet voltages, speaker DC resistance), multicast packet storms, and serial null-modem pinouts.
+
+---
+
+## ⚠️ Disclaimer & Attribution
+
+* **AI Development:** This project, application code, and question database were coded entirely by **Gemini 3.8 Flash**. Answers and explanations are provided for educational study and practice purposes and are not guaranteed to be 100% accurate.
+* **Non-Affiliation:** This project is an independent community study resource and is **not affiliated with, endorsed by, or sponsored by AVIXA**.
+* **Authenticity of Questions:** None of the questions in this repository are taken from actual official AVIXA CTS exams, nor from official AVIXA practice exams.
+* **AI-Generated Content:** Questions may be AI-generated; they were specifically designed to assess skills and knowledge across all AVIXA domain subject matters on a level of rigor and scenario complexity needed to pass the real CTS examination.
